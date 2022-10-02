@@ -1,0 +1,7 @@
+accord - согласие
+accumulation - скопление
+adolescent - подросток
+heap - куча
+branch - ствол
+reference - справка
+queue - очередь
