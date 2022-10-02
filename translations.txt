@@ -2,6 +2,6 @@ accord - согласие
 accumulation - скопление
 adolescent - подросток
 heap - куча
-branch - ствол
+branch - ветвь
 reference - справка
 queue - очередь
