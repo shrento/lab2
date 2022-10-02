@@ -1,0 +1,3 @@
+[submodule "eng_dict"]
+	path = eng_dict
+	url = https://github.com/shrento/eng_dict
