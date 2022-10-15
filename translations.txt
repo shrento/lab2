@@ -1,7 +1,3 @@
-accord - согласие
-accumulation - скопление
-adolescent - подросток
-heap - куча
-branch - ветвь
-reference - справка
-queue - очередь
+version https://git-lfs.github.com/spec/v1
+oid sha256:579dd8aeb26b41425c3ff381e1780557922396b304108f16cee3268e18e9d873
+size 183
